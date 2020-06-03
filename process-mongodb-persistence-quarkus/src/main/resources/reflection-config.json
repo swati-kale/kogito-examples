@@ -1,0 +1,451 @@
+[
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$SwimlaneContextInstance",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstance",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstance$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$Variable",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$Variable$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$HumanTaskWorkItem",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$WorkItem",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$HumanTaskWorkItem$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$WorkItem$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessTimer",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessTimer$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessTimer$TimerInstance",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$VariableContainer",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$VariableContainer$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$IterationLevel",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$IterationLevel$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$ExclusiveGroupInstance",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceType",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$RuleSetNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$RuleSetNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$HumanTaskNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$WorkItemNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$HumanTaskNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$WorkItemNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$SubProcessNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$SubProcessNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$MilestoneNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$MilestoneNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$EventNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$EventNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$StateNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$StateNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$TimerNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$TimerNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$JoinNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$JoinNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$JoinNode$JoinTrigger",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$CompositeContextNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$CompositeContextNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$ForEachNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$ForEachNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$AsyncEventNode",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$AsyncEventNode$Builder",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "org.jbpm.marshalling.impl.JBPMMessages$ProcessInstance$NodeInstanceContent$RuleSetNode$TextMapEntry",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		},
+		{
+			"name" : "java.lang.String",
+			"allDeclaredConstructors" : true,
+			"allPublicConstructors" : true,
+			"allDeclaredMethods" : true,
+			"allPublicMethods" : true,
+			"allDeclaredFields" : true,
+			"allPublicFields" : true
+		}
+]
